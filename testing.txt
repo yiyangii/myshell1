@@ -1,0 +1,4 @@
+total 4
+drwx------ 2 tuh34906 domain users   32 Oct 26 10:06 .
+drwx------ 8 tuh34906 domain users 4096 Oct 26 10:06 ..
+-rw------- 1 tuh34906 domain users    0 Oct 26 10:06 testing.txt

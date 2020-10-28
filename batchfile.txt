@@ -1,0 +1,12 @@
+cd
+mkdir demo
+cd demo
+touch testing.txt
+echo hello
+ls -la > testing.txt
+wc < testing.txt
+dir demo
+environ
+cd ..
+
+ps -aux | grep root
